@@ -6,6 +6,7 @@
 
 */.settings/
 **/target/
+target/
 **/test-output/
 **/bin
 *.log
